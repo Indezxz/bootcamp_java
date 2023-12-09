@@ -6,7 +6,7 @@ public class Calculadora_IMC {
         //Peso en KG / altura en metros al cuadrado
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("---------- INGRESE SU PESO ---------");
+        System.out.println("---------- INGRESE SU PESO(Kg) ---------");
         double peso = scan.nextDouble();
         System.out.println("---------- INGRESE SU ALTURA --------");
         double altura = scan.nextDouble();
